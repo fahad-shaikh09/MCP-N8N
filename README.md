@@ -35,3 +35,7 @@ https://docs.n8n.io/integrations/builtin/credentials/qdrant/
 
 ## After adding Bright Data for real time search
 <img width="1532" height="821" alt="image" src="https://github.com/user-attachments/assets/5cfcb46f-5c1e-4a33-a145-968c06e8ddbc" />
+
+
+# Source: 
+https://www.youtube.com/watch?v=GB2RZ25HTD8
