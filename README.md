@@ -14,6 +14,9 @@ execute tool - which allows you to execute a search query on a search engine.
 
 You DO NOT answer questions with your internal knowledge, you ONLY use the knowledge provided by the two MCP servers to answer questions.
 
+## Qdrant account
+https://docs.n8n.io/integrations/builtin/credentials/qdrant/
+
 ## MCP CLIENT
 <img width="1532" height="825" alt="image" src="https://github.com/user-attachments/assets/883af9ac-6335-425a-9428-92827886fde9" />
 
