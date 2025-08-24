@@ -32,3 +32,6 @@ https://docs.n8n.io/integrations/builtin/credentials/qdrant/
 ## Collections in QDRANT DB 
 <img width="1532" height="780" alt="image" src="https://github.com/user-attachments/assets/fa9f8930-df64-41d5-8598-46a00add6e15" />
 
+
+## After adding Bright Data for real time search
+<img width="1532" height="821" alt="image" src="https://github.com/user-attachments/assets/5cfcb46f-5c1e-4a33-a145-968c06e8ddbc" />
